@@ -1,0 +1,53 @@
+[
+  {
+      "id": 1,
+      "nombre": "Manzana",
+      "precio": 100,
+      "stock": 10,
+      "imagen": "imagenes/chiles.jpg" 
+    
+  },
+  {
+      "id": 2,
+      "nombre": "Cebolla",
+      "precio": 120,
+      "stock": 10,
+      "imagen": "imagenes/chiles.jpg" 
+  },
+  {
+      "id": 3,
+      "nombre": "Pera",
+      "precio": 210,
+      "stock": 102,
+      "imagen": "imagenes/chiles.jpg" 
+  },
+  {
+      "id": 4,
+      "nombre": "Frutilla",
+      "precio": 600,
+      "stock": 1,
+      "imagen": "imagenes/chiles.jpg" 
+  },
+  {
+      "id": 5,
+      "nombre": "Naranja",
+      "precio": 80,
+      "stock": 12,
+      "imagen": "imagenes/chiles.jpg" 
+  },
+  {
+      "id": 5,
+      "nombre": "tomatovich",
+      "precio": 80,
+      "stock": 12,
+      "imagen": "imagenes/chiles.jpg" 
+  },
+  {
+    "id": 6,
+    "nombre": "jelula",
+    "precio": 80,
+    "stock": 12,
+    "imagen": "imagenes/chiles.jpg" 
+    
+  }
+]   
